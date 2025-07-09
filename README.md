@@ -19,7 +19,7 @@ A sleek, offline, cross-platform calculator app inspired by neon design. Built w
 2. Run `flutter pub get`
 3. Run `flutter run` to launch the app
 4. Run `flutter build apk --release` to build the app
-5. The app will be found at "-build/app/outputs/flutter-apk/app-release.apk"
+5. The app will be found at `-build/app/outputs/flutter-apk/app-release.apk`
 
 ## 🛠️ Tech Stack
 - Flutter (Dart)
