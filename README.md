@@ -13,18 +13,13 @@ A sleek, offline, cross-platform calculator app inspired by neon design. Built w
 ## 📱 Screenshots
 <!-- Add screenshots here if available -->
 
-## 📦 Download
-**[Download the latest APK](build/app/outputs/flutter-apk/app-release.apk)**
 
-To install on Android:
-1. Download the APK to your device.
-2. Open the file and follow the prompts to install.
-3. Allow installation from unknown sources if prompted.
-
-## 🚀 Getting Started (Developers)
+## 🚀 Getting Started (Developers) and Installation
 1. Clone this repo
 2. Run `flutter pub get`
 3. Run `flutter run` to launch the app
+4. Run `flutter build apk --release` to build the app
+5. The app will be found at "-build/app/outputs/flutter-apk/app-release.apk"
 
 ## 🛠️ Tech Stack
 - Flutter (Dart)
