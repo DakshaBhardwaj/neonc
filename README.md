@@ -27,4 +27,3 @@ A sleek, offline, cross-platform calculator app inspired by neon design. Built w
 
 ---
 
-© 2024 NeonC. All rights reserved.
