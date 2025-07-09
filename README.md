@@ -11,7 +11,7 @@ A sleek, offline, cross-platform calculator app inspired by neon design. Built w
 - 100% offline, no internet required
 
 ## 📱 Screenshots
-![Light mode](light_mode.jpg | width = 50)
+![Light mode](light_mode.jpg|50)
 ![dark mode](dark_mode.jpg)
 
 ## 🚀 Getting Started (Developers) and Installation
