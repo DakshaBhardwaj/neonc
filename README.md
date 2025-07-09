@@ -1,16 +1,35 @@
-# neonc
+# NeonC Calculator
 
-A new Flutter project.
+A sleek, offline, cross-platform calculator app inspired by neon design. Built with Flutter for Android and iOS.
 
-## Getting Started
+## ✨ Features
+- Neon-themed, modern UI
+- Light & dark mode toggle
+- Responsive and smooth on all screen sizes
+- Basic arithmetic operations (+, -, ×, ÷, %, decimal)
+- Clear and backspace functions
+- 100% offline, no internet required
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
+<!-- Add screenshots here if available -->
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Download
+**[Download the latest APK](build/app/outputs/flutter-apk/app-release.apk)**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To install on Android:
+1. Download the APK to your device.
+2. Open the file and follow the prompts to install.
+3. Allow installation from unknown sources if prompted.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started (Developers)
+1. Clone this repo
+2. Run `flutter pub get`
+3. Run `flutter run` to launch the app
+
+## 🛠️ Tech Stack
+- Flutter (Dart)
+- Custom neon UI
+
+---
+
+© 2024 NeonC. All rights reserved.
